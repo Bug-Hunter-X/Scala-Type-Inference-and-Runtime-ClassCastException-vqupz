@@ -1,0 +1,1 @@
+This repository demonstrates a common Scala error related to type inference and runtime exceptions. The `bug.scala` file contains code that compiles without errors but throws a `ClassCastException` during runtime due to type mismatch in function application. The `bugSolution.scala` provides a corrected version with explicit type handling, eliminating the runtime error.
